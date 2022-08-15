@@ -1,3 +1,6 @@
+# LLSIFAS Specific
+com.klab.lovelive.allstars.global/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
