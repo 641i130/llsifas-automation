@@ -1,5 +1,6 @@
 # LLSIFAS Specific
 com.klab.lovelive.allstars.global/
+unity_testing/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
